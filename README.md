@@ -9,7 +9,7 @@ Built using Godot 3.2.3
 Includes WASD mappings (up, left, down, right) and escape to quit.
 
 ## References
-Kenney.ln
+Kenney.nl
 
 ## Future Development
 None
